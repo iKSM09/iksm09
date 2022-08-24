@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a front-end developer with experience in UI/UX design for both web and mobile. I am proficient in designing, wireframing, and prototyping to developing using HTML, CSS, and JavaScript, and currently pursuing React and TypeScript to add to my skills. I am passionate about creating user-friendly websites and web applications that are easy to use. I have a keen eye for detail and I am always willing to learn new skills and technologies.
+
 <!--
 **iKSM09/iksm09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
