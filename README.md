@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Sharma</h1>
 <h3 align="center">A passionate UI / UX DESIGNER & FRONTEND DEVELOPER from India</h3> <br/>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=iksm09&" alt="iksm09" /></p>
+<!--- <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=iksm09&" alt="iksm09" /></p> --->
 <p align="left">I am a front-end developer with experience in UI/UX design for both web and mobile. I am proficient in designing, wireframing, and prototyping to developing using HTML, CSS, and JavaScript, and currently pursuing React and TypeScript to add to my skills. I am passionate about creating user-friendly websites and web applications that are easy to use. I have a keen eye for detail and I am always willing to learn new skills and technologies.</p>
 
 <br/>
