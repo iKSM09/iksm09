@@ -7,8 +7,6 @@
 
 <p align="left">I am always looking for ways to learn and grow. If you have any suggestions for resources or courses, please let me know.</p>
 
-<br/>
-
 <!-- - 🔭 I’m currently working on [React Notes](https://iksm09-react-notes.netlify.app/) -->
 
 - 🌱 I’m currently learning **Next.js**
@@ -19,8 +17,6 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iksm09&show_icons=true&hide_border=true&locale=en&layout=compact" alt="iksm09" width="80%" /></p>
-
-<br/>
 
 <h4 class="red" align="left">Frontend:</h4>
 <p align="left">
