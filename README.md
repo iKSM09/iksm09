@@ -18,7 +18,7 @@
 <br/>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iksm09&show_icons=true&hide_border=true&locale=en&layout=compact" alt="iksm09" width="60%" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iksm09&show_icons=true&hide_border=true&locale=en&layout=compact" alt="iksm09" width="80%" /></p>
 
 <br/>
 
