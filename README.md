@@ -22,13 +22,6 @@
 
 <br/>
 
-<style>
-  .red {
-    color: red;
-  }
-</style>
-
-
 <h4 class="red" align="left">Frontend:</h4>
 <p align="left">
   <a title="HTML5" href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
